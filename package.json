@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Parse a File Name from a Given URL or Data Path",
   "main": "parse-filename.js",
+  "files": [
+    "parse-filename.js"
+  ],
   "scripts": {
     "test": "node test.js"
   },
