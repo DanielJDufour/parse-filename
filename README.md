@@ -26,7 +26,7 @@ import parseFileName from 'parse-filename'
 ```
 or
 ```javascript
-const parseFileName from 'parse-filename'
+const parseFileName = require('parse-filename');
 ```
 or
 ```html
